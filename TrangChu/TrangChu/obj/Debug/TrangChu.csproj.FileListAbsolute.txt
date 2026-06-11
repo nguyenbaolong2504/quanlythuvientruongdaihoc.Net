@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\QuanLyThuVienE\TrangChu\bin\Debug\TrangChu.exe.config
+C:\Users\Admin\source\repos\QuanLyThuVienE\TrangChu\bin\Debug\TrangChu.exe
+C:\Users\Admin\source\repos\QuanLyThuVienE\TrangChu\bin\Debug\TrangChu.pdb
+C:\Users\Admin\source\repos\QuanLyThuVienE\TrangChu\obj\Debug\TrangChu.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QuanLyThuVienE\TrangChu\obj\Debug\TrangChu.Properties.Resources.resources
+C:\Users\Admin\source\repos\QuanLyThuVienE\TrangChu\obj\Debug\TrangChu.QuanLySach.resources
+C:\Users\Admin\source\repos\QuanLyThuVienE\TrangChu\obj\Debug\TrangChu.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QuanLyThuVienE\TrangChu\obj\Debug\TrangChu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QuanLyThuVienE\TrangChu\obj\Debug\TrangChu.exe
+C:\Users\Admin\source\repos\QuanLyThuVienE\TrangChu\obj\Debug\TrangChu.pdb
+C:\Users\Admin\source\repos\QuanLyThuVienE\TrangChu\obj\Debug\TrangChu.TrangChu.resources
+C:\Users\Admin\source\repos\QuanLyThuVienE\TrangChu\obj\Debug\TrangChu.QuanLyMuonTra.resources
+C:\Users\Admin\source\repos\QuanLyThuVienE\TrangChu\obj\Debug\TrangChu.SinhVien.resources
+C:\Users\Admin\source\repos\QuanLyThuVienE\TrangChu\obj\Debug\TrangChu.TimKiemSach.resources
+C:\Users\Admin\source\repos\QuanLyThuVienE\TrangChu\obj\Debug\TrangChu.TacGia.resources
